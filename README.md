@@ -28,3 +28,7 @@ Après l'installation, vous pouvez lancer le jeu avec la commande suivante :
 # Commandes du jeu
 W, A, S, D : Déplacement
 Flèches gauche/droite : Rotation
+
+
+https://github.com/user-attachments/assets/c5e0b169-8438-4422-8a88-bcf034f02c25
+
